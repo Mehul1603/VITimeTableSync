@@ -1,0 +1,281 @@
+Sl.No	Class Group	Course	L T P J C	Category	Course Option	Class Nbr	Slot -
+Venue	Faculty Details	Registered / Updated Date & Time	Attendance Date - Type	Status & Ref No
+1
+
+General (Semester)
+
+BCHY102N - Environmental Sciences
+
+( Online Course )
+
+0 0 0 0 2.0
+
+Non-graded Core Requirement	
+Regular
+
+VL2022230103497
+
+NIL -
+
+
+NIL
+
+ABIR SARBAJNA -
+
+
+SAS
+
+09-Jul-2022 18:02
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
+2
+
+General (Semester)
+
+BCSE103E - Computer Programming: Java
+
+( Embedded Theory )
+
+1 0 0 0 1.0
+
+Foundation Core	
+Regular
+
+VL2022230103238
+
+TG1 -
+
+
+SJT308
+
+JAISANKAR N -
+
+
+SCOPE
+
+09-Jul-2022 18:03
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
+3
+
+General (Semester)
+
+BCSE103E - Computer Programming: Java
+
+( Embedded Lab )
+
+0 0 4 0 2.0
+
+Foundation Core	
+Regular
+
+VL2022230103770
+
+L41+L42+L45+L46 -
+
+
+SJT316
+
+JAISANKAR N -
+
+
+SCOPE
+
+09-Jul-2022 18:03
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
+4
+
+General (Semester)
+
+BCSE202L - Data Structures and Algorithms
+
+( Theory Only )
+
+3 0 0 0 3.0
+
+Discipline Core	
+Regular
+
+VL2022230103367
+
+B1+TB1 -
+
+
+SJT501
+
+MURUGAN K -
+
+
+SCOPE
+
+09-Jul-2022 18:08
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
+5
+
+General (Semester)
+
+BCSE202P - Data Structures and Algorithms Lab
+
+( Lab Only )
+
+0 0 2 0 1.0
+
+Discipline Core	
+Regular
+
+VL2022230103971
+
+L55+L56 -
+
+
+SJT517
+
+MURUGAN K -
+
+
+SCOPE
+
+09-Jul-2022 18:08
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
+6
+
+General (Semester)
+
+BENG102P - Technical Report Writing
+
+( Lab Only )
+
+0 0 2 0 1.0
+
+Foundation Core	
+Regular
+
+VL2022230100432
+
+L43+L44 -
+
+
+TT432
+
+GAYATHRI N -
+
+
+SSL
+
+20-Jul-2022 21:38
+
+21-Jul-2022
+- Manual
+
+Registered and Approved
+7
+
+General (Semester)
+
+BMAT201L - Complex Variables and Linear Algebra
+
+( Theory Only )
+
+3 1 0 0 4.0
+
+Foundation Core	
+Regular
+
+VL2022230100347
+
+C1+TC1+TCC1 -
+
+
+SJT301
+
+VIJAYAKUMAR V -
+
+
+SAS
+
+09-Jul-2022 18:03
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
+8
+
+General (Semester)
+
+BMGT104L - Marketing Management
+
+( Theory Only )
+
+3 0 0 0 3.0
+
+Foundation Core (GENERAL Basket)	
+Regular
+
+VL2022230102724
+
+G2+TG2 -
+
+
+GDN123
+
+VENUGOPAL P. -
+
+
+SMEC
+
+22-Jul-2022 22:22
+
+23-Jul-2022
+- Manual
+
+Registered and Approved
+9
+
+General (Semester)
+
+BSTS201P - Qualitative Skills Practice I
+
+( Soft Skill )
+
+0 0 3 0 1.5
+
+Foundation Core	
+Regular
+
+VL2022230100189
+
+E1+TE1 -
+
+
+SJT409
+
+SMART (APT) -
+
+
+SSL
+
+09-Jul-2022 18:01
+
+10-Jul-2022
+- Manual
+
+Registered and Approved
