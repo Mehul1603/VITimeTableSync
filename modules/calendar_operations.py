@@ -48,4 +48,5 @@ def add_event(service, event):
     Returns:
         dict: The created event resource.
     """
+    event['colorId'] = 5
     return service.events().insert(calendarId='primary', body=event).execute()

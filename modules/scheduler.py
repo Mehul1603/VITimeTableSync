@@ -1,4 +1,6 @@
 from datetime import datetime, timedelta
+from modules.calendar_operations import clear_day, list_events, add_event
+
 
 def apply_holidays(service, holidays):
     """

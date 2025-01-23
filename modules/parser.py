@@ -13,7 +13,7 @@ def parse_calendar(text, month, year):
     """
 
     # Regex to match a date followed by an event
-    pattern = r"(\d+)([^\d]+)"
+    pattern = r"(\d+)([^\d].*)"
     matches = re.findall(pattern, text)
     calendar = []
     holidays = []
@@ -23,14 +23,18 @@ def parse_calendar(text, month, year):
     for date, event in matches:
         # Remove extra spaces and newlines
         event_cleaned = event.strip()
+        if len(date)==1:
+            date = "0" + date
         calendar.append([date, event_cleaned])
     
     for date, event in calendar:
         if event:
             if event == "Instructional Day":
                 continue
-            if "Instructional Day(" in event:
+            if "Instructional Day(" in event and event[18:21] in ["Sun", "Mon", "Tue", "Wed", "Thu", "Fri", "Sat"]:
                 working_saturdays.append([f"{year}-{month}-{date}", event[18:21]])
+                continue
+            if "Instructional Day(" in event and "No Instructional Day" not in event:
                 continue
         holidays.append(f"{year}-{month}-{date}")
     return holidays, working_saturdays
